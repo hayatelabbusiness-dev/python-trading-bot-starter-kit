@@ -1,0 +1,11 @@
+# The Wealthy Coder - Exchange API Configuration
+# Chu y: Tuyet doi khong commit file chua API key that len GitHub cong khai!
+
+EXCHANGE=binance
+BINANCE_API_KEY=your_binance_api_key_here
+BINANCE_API_SECRET=your_binance_api_secret_here
+
+# Cai dat giao dich
+DEFAULT_SYMBOL=BTC/USDT
+DEFAULT_TIMEFRAME=1h
+MAX_RISK_PER_TRADE_PERCENT=1.5
